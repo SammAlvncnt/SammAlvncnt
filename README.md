@@ -27,15 +27,12 @@ Undergraduate Student in Binus University
 ![Firebase](https://img.shields.io/badge/firebase-%2323039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## Database
+## Database & Analytics
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SSMS](https://img.shields.io/badge/Microsoft_SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%232307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## Data Science & Analytics
-
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-3498DB?style=for-the-badge&logo=pentaho&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%2323150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
