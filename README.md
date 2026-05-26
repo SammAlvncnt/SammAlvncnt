@@ -1,8 +1,14 @@
-# 💫 About Me:
-Undergraduate Student in Binus University
+## About Me
+
+I am an Undergraduate Student at Binus University with a primary focus on Data Analytics, Data Analysis, and Data Engineering, complemented by secondary skills in AI Integration and Web Development.
+
+- **Data Analytics & Engineering:** Proficient in SQL database design, Excel data processing, Pentaho ETL tools, and Python data analysis libraries like Pandas.
+- **AI:** Enthusiastic about Google AI, Vertex AI, and integrating Gemini models into workflows and applications.
+- **Web Development:** Experienced in building applications using PHP (Laravel), JavaScript/TypeScript (React, Next.js, Vue), and FastAPI.
+- **Learning Journey:** Currently expanding my skills in advanced database architecture, data pipeline engineering, and cloud deployment.
 
 
-## 🌐 Socials:
+##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MightySamm_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Samuel.alvincent) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuel_Alvincent) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelalvincent2005@gmail.com) 
 
 
@@ -46,14 +52,7 @@ Undergraduate Student in Binus University
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%23234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Design
-
-![Figma](https://img.shields.io/badge/figma-%2323F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SammAlvncnt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SammAlvncnt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SammAlvncnt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
