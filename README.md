@@ -12,6 +12,18 @@ I am an Undergraduate Student at Binus University with a primary focus on Data A
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MightySamm_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Samuel.alvincent) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuel_Alvincent) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelalvincent2005@gmail.com) 
 
 
+## Database & Analytics
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SSMS](https://img.shields.io/badge/Microsoft_SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%232307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-3498DB?style=for-the-badge&logo=pentaho&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%2323150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ## Language
 
 ![C](https://img.shields.io/badge/c-%232300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,18 +44,6 @@ I am an Undergraduate Student at Binus University with a primary focus on Data A
 ![Vue.js](https://img.shields.io/badge/vue.js-%232335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%23234FC08D)
 ![Firebase](https://img.shields.io/badge/firebase-%2323039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-## Database & Analytics
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SSMS](https://img.shields.io/badge/Microsoft_SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%232307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pentaho](https://img.shields.io/badge/Pentaho-3498DB?style=for-the-badge&logo=pentaho&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%2323150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Power Bi](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Google AI & Cloud
 
